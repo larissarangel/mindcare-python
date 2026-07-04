@@ -57,6 +57,37 @@ O projeto está alinhado ao:
 Promovendo ações voltadas ao acompanhamento das emoções e incentivo ao autocuidado.
 
 ---
+---
+
+# 📷 Demonstração do Sistema
+
+## Menu Principal
+
+![Menu Principal](menu.png)
+
+---
+
+## Registro de Emoção
+
+![Registro de Emoção](Registro.png)
+
+---
+
+## Histórico de Registros
+
+![Histórico](Historico.png)
+
+---
+
+## Estatísticas
+
+![Estatísticas](Estatisticas.png)
+
+---
+
+## Dicas de Bem-Estar
+
+![Dicas](dicas_bem_estar.png)
 
 # Autor
 
