@@ -1,6 +1,6 @@
 # MindCare 🧠💙
 
-Aplicativo desenvolvido em Python com o objetivo de auxiliar no acompanhamento da saúde mental de forma simples e acessível.
+Sistema desenvolvido em Python para promoção da saúde mental e inclusão digital, permitindo o registro e acompanhamento das emoções, além da oferta de orientações de bem-estar.
 
 ## 📌 Funcionalidades
 - Registro diário de emoções
